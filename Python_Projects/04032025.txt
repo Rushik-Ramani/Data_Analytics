@@ -1,0 +1,47 @@
+----------your bill------------ 
+Name : Rushik Ramani 
+Gender : male 
+Age = 20 
+product : ['ring', 'neckless'] 
+product Gram : 70/g 
+gold price : 6825 
+---------------------------------------------- 
+Total gold rate : 477750 
+Making charges : 845/g 
+Total making charges : 59150 
+------------------------------------ 
+Total Amount : 536900------------------------------------- 
+Total net amount = 402675.0Rs.
+
+----------your bill------------ 
+Name : Mital sangani 
+Gender : female 
+Age = 21 
+product : ['ring', 'neckless'] 
+product Gram : 100/g 
+gold price : 6825 
+---------------------------------------------- 
+Total gold rate : 682500 
+Making charges : 845/g 
+Total making charges : 84500 
+------------------------------------ 
+Total Amount : 767000
+------------------------------------- 
+Total net amount = 536900.0Rs. 
+
+----------your bill------------ 
+Name : harsh patel 
+Gender : male 
+Age = 30 
+product : ['ring'] 
+product Gram : 100/g 
+gold price : 6825 
+---------------------------------------------- 
+Total gold rate : 682500 
+Making charges : 845/g 
+Total making charges : 84500 
+------------------------------------ 
+Total Amount : 767000
+------------------------------------- 
+Total net amount = 575250.0Rs. 
+
